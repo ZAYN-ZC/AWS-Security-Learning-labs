@@ -33,8 +33,13 @@ Completed:
 - Created this GitHub repository.
 - Selected the first AWS official tutorial.
 - Signed in to the AWS console.
+- Confirmed the AWS Free plan and available credits.
+- Configured and verified a recovery email.
+- Successfully registered an authenticator app for AWS Builder ID MFA.
+- Investigated a sign-in timeout; access worked through a mobile hotspot.
 
-Next:
-- Check the AWS sign-in identity and security settings.
-- Configure cost monitoring.
-- Begin the tutorial.
+Session status:
+- Budget alerts deferred.
+- No AWS resources created for this lab.
+- Next session: create the CloudTrail trail in ap-southeast-2.
+
